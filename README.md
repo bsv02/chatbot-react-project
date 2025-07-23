@@ -39,8 +39,8 @@ react-chatbot-project/
 
 ---
 
-## Dependencies 
-# Install all dependencies with : npm install
+# Dependencies 
+## Install all dependencies with : npm install
 
 - react and react-dom
 - react-toastify — Toast notifications
