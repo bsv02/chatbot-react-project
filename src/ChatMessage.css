@@ -1,0 +1,31 @@
+.human-message-container{
+  display:flex;
+  justify-content:flex-end;
+  align-items:flex-start;
+}
+.message-text{
+  background-color:rgb(107, 107, 215);
+  color:white;
+  padding:12px 20px;
+  border-radius:10px;
+  margin-right:10px;
+  margin-left:10px;
+  margin-bottom:20px;
+  max-width:300px;
+}
+.robot-message-container{
+  display:flex;
+  align-items:flex-start;
+}
+.human-icon {
+  width:35px;
+}
+.robot-icon{
+  width:38px;
+}
+.spinner-container img {
+  height: 20px;
+  width: 20px;
+  border-radius:10px;
+  max-width:300px;
+}
